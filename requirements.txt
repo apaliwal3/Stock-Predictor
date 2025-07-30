@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+tensorflow
+scikit-learn
+pandas_datareader
+jupyter
+python-dotenv

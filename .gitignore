@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV data files
+*.csv
+
+# Environment files
+.env
+
+# VS Code and other editor settings
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Conda environments
+env.yml
